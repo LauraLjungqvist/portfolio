@@ -10,19 +10,26 @@ personal portfolio 2019
 - [Mobile arrow smooth scroll down to anchor](https://stackoverflow.com/questions/4198041/jquery-smooth-scroll-to-an-anchor)
 - [Horizontal scrollbar](https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6)
 
+## navigation
+
+- home
+- blog  
+- portfolio
+- hire me
+
 ## table of content
 
-- nav
-  * nav list
 - header
   * header logo
   * header title
+  * header nav
   * header social
 - main
+  * main nav
   * main about
-  * main projects
+  * main examples
   * main tools
-  * main portfolio
+  * main projects (recent / ongoing)
   * main contact
   
 ## TO DO
@@ -34,3 +41,7 @@ personal portfolio 2019
 - test headernav position (flexbox?)
 - test header flex positioning
 - test main nav smooth scroll toggle
+- add icons to resources
+- add contact form
+- make contact profile image smaller
+- resize and compress images
