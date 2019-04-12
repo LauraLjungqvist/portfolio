@@ -1,0 +1,243 @@
+<div class="row">
+<div class="col-lg-10 col-md-9 col-sm-12 col-xs-12">
+<div class="page-section hero" id="about">
+<div class="jumbotron" id="banner">
+<div class="container">
+<h1>Hello, my name is Laura</h1>
+<h2>I'm a designer, developer and digital native.</h2>
+<span>Hire me to create your Wordpress websites, online branding, social media marketing, updates, maintenance and support.</span>
+<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 pull-right">
+<img src="https://lauraljungqvist.se/wp-content/uploads/2019/04/portfolio-2019-preview.png" class="img-responsive" alt="Laura Ljungqvist wordpress portfolio mockup"></div>
+<div class="clearfix hidden-lg"></div>
+<div class="gap hidden-lg"></div>
+<ul>
+ 	<li>Responsive and mobile friendly websites</li>
+ 	<li>Bootstrap and Material Design</li>
+ 	<li>Design customisation and development</li>
+ 	<li>Keep your website updated</li>
+ 	<li>Adding Google analytics</li>
+ 	<li>Help improve your SEO</li>
+ 	<li>Create a social media marketing strategy</li>
+</ul>
+</div>
+</div>
+<div class="well">
+
+Get in touch to discuss your needs and how I could assist <a href="#contact" class="btn btn-default btn-lg pull-right">Contact Me</a>
+
+</div>
+</div>
+<div class="page-section" id="projects">
+<h1>Projects</h1>
+<div class="row">
+<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/04/index-desktop@0.75x.png" class="img-responsive" loading="lazy" alt="Europe"></a></div>
+<div class="panel-body">
+
+Europe
+
+</div>
+<div class="panel-footer"></div>
+</div>
+</div>
+<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/03/Game-Login@0.75x-100.jpg" class="img-responsive" loading="lazy" alt="What Happened Here"></a></div>
+<div class="panel-body">
+
+What Happened Here
+
+</div>
+<div class="panel-footer"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-section" id="tools">
+<h1>Tools</h1>
+<div class="row">
+<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="well">
+<h2>Skills</h2>
+<div class="skill pull-right"><span class="html5 pull-left"><span class="skill-text pull-left">90%</span></span></div>
+HTML
+<div class="skill pull-right"><span class="css3 pull-left"><span class="skill-text pull-left">85%</span></span></div>
+CSS
+<div class="skill pull-right"><span class="js pull-left"><span class="skill-text pull-left">35%</span></span></div>
+Javascript
+<div class="skill pull-right"><span class="bootstrap pull-left"><span class="skill-text pull-left">85%</span></span></div>
+Bootstrap
+<div class="skill pull-right"><span class="mdl pull-left"><span class="skill-text pull-left">65%</span></span></div>
+Material Design Lite
+<div class="skill pull-right"><span class="wp pull-left"><span class="skill-text pull-left">80%</span></span></div>
+Wordpress
+<div class="skill pull-right"><span class="adobe pull-left"><span class="skill-text pull-left">75%</span></span></div>
+Adobe Suite
+
+</div>
+</div>
+<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="well">
+<h2>Languages</h2>
+English (Bilingual proficiency)
+Dutch (Native proficiency)
+Swedish (Professional working proficiency)
+
+</div>
+<div class="well">
+<h2>Resources</h2>
+VSCode, Atom, Adobe Illustrator, Lunacy, Codepen &amp; Github
+
+</div>
+</div>
+</div>
+<div class="gap hidden-lg"></div>
+<div class="well">
+<h3>Why does my website need to be updated?</h3>
+Signs your website is ready for an update;
+<ul>
+ 	<li>It looks outdated.</li>
+ 	<li>It’s not responsive, or cohesive across platforms.</li>
+ 	<li>It has a bad user experience, and is hard to navigate.</li>
+ 	<li>It’s not up to date to your business strategy.</li>
+ 	<li>Content is not or cannot be updated.</li>
+ 	<li>Features are broken.</li>
+</ul>
+
+<hr>
+
+<h3>Why Wordpress?</h3>
+This platform is cost-effective, highly customisable and secure, and powers 33% of websites.
+
+<hr>
+
+<h3>Why use a framework?</h3>
+Twitter Bootstrap and Google's Material Design make cross-platform compatibility easy, and are two of the most popular frameworks.
+
+</div>
+</div>
+<div class="page-section" id="portfolio">
+<h1>Portfolio</h1>
+<div class="row">
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/02/Star-Shine.png" class="img-responsive" loading="lazy" alt="Another Multiverse"></a></div>
+<div class="panel-body">
+
+Another Multiverse
+
+</div>
+<div class="panel-footer"></div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/02/Business-Card.png" class="img-responsive" loading="lazy" alt="Laura Ljungqvist branding"></a></div>
+<div class="panel-body">
+
+Personal Brand
+
+</div>
+<div class="panel-footer"></div>
+</div>
+</div>
+<div class="clearfix visible-sm visible-xs"></div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/02/Webshop-Screencap-color-2019.png" class="img-responsive" loading="lazy" alt="Bootstrap and shopify webshop"></a></div>
+<div class="panel-body">
+
+Webshop
+
+</div>
+<div class="panel-footer"></div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/02/FogwiseAgent-Screencap-color-2019.png" class="img-responsive" loading="lazy" alt="Fogwise interface"></a></div>
+<div class="panel-body">
+
+Fogwise
+
+</div>
+<div class="panel-footer">
+<button class="btn btn-default hidden">footer</button></div>
+</div>
+</div>
+<div class="clearfix visible-sm visible-xs"></div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/02/WoodlandWorks-Screencap-color-2019.png" class="img-responsive" loading="lazy" alt="Woodland Works webshop"></a></div>
+<div class="panel-body">
+
+Woodland Works
+
+</div>
+<div class="panel-footer"></div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+<div class="panel panel-link">
+<div class="panel-heading">
+<a><img src="https://lauraljungqvist.se/wp-content/uploads/2019/02/Sunsafe-Screencap-color-2019.png" class="img-responsive" loading="lazy" alt="Sunsafe website"></a></div>
+<div class="panel-body">
+
+Sunsafe
+
+</div>
+<div class="panel-footer"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="page-section" id="contact">
+<h1>Contact</h1>
+<div class="well">
+<div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
+<img src="https://lauraljungqvist.se/wp-content/uploads/2019/02/lauraljungqvist.jpg" class="img-responsive img-circle" loading="lazy" alt="Laura Ljungqvist">
+<div class="gap visible-xs"></div>
+</div>
+<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
+
+Laura studied at the Minerva school for Autonomous Arts &amp; Design in Groningen. Local in the Netherlands, Georgia and Sweden, currently residing in Norrköping.
+
+She was active in student council, organised a festival and has lead groups of 25+ people to cooperate in team work, including preparation, delegation and strategizing.
+
+She works loves front-end design, CSS and working with online branding. And her current learning focus is Angular, accessibility and ethical design. Making the internet accessible and empowering to everybody.
+
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="well">
+<ul class="social-media-list list-inline">
+ 	<li><a href="https://www.linkedin.com/in/lauraljungqvist/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> /LauraLjungqvist</a></li>
+ 	<li><a href="https://www.instagram.com/lolacfc/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i> /LauraLjungqvist</a></li>
+ 	<li><a href="https://medium.com/@laura.ljungqvist" target="_blank" rel="noopener noreferrer"><i class="fab fa-medium"></i> /@LauraLjungqvist</a></li>
+ 	<li><a href="https://twitter.com/LauraLjungqvist" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> /LauraLjungqvist</a></li>
+ 	<li><a href="mailto:laura.ljungqvist@gmail.com" target="_top" rel="noopener noreferrer"><i class="fas fa-envelope"></i> laura.ljungqvist@gmail.com</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- nav-->
+<div class="nav col-lg-2 col-md-3 hidden-sm hidden-xs pull-right" role="navigation">
+  <nav class="navigation" id="mainNav">
+    <a class="navigation__link" href="#about">About</a>
+<a class="navigation__link" href="#projects">Projects</a>
+<a class="navigation__link" href="#tools">Tools</a>
+<a class="navigation__link" href="#portfolio">Portfolio</a>
+<a class="navigation__link" href="#contact">Contact</a>
+</nav></div>
+<!-- nav-->
+
+</div>
