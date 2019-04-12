@@ -12,7 +12,7 @@ personal portfolio 2019
 
 ## navigation
 
-- home
+- [home](https://github.com/LauraLjungqvist/portfolio/blob/master/home)
 - blog  
 - portfolio
 - hire me
@@ -20,17 +20,17 @@ personal portfolio 2019
 ## table of content
 
 - header
-  * header logo
-  * header title
+  * logo
+  * title
   * header nav
-  * header social
-- main
-  * main nav
-  * main about
-  * main examples
-  * main tools
-  * main projects (recent / ongoing)
-  * main contact
+  * social
+- home
+  * home nav
+  * about
+  * examples
+  * tools
+  * projects (recent / ongoing)
+  * contact
   
 ## TO DO
 
