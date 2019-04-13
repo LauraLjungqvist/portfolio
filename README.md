@@ -6,16 +6,10 @@ personal portfolio 2019
 - [Simple theme toggle](https://designshack.net/articles/css/lightsoff/)
 - [Nav smooth scroll](https://codepen.io/LauraCFC/pen/JVRWNV)
 - [Mobile animated hamburger](https://codepen.io/antonlydike/pen/PZPqPw) 
+- [Mobile scroll down button](https://codepen.io/nxworld/pen/OyRrGy)
 - [Icon transform](http://www.transformicons.com/)
 - [Mobile arrow smooth scroll down to anchor](https://stackoverflow.com/questions/4198041/jquery-smooth-scroll-to-an-anchor)
 - [Horizontal scrollbar](https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6)
-
-## navigation
-
-- [home](https://github.com/LauraLjungqvist/portfolio/blob/master/home)
-- blog  
-- portfolio
-- hire me
 
 ## table of content
 
@@ -24,13 +18,24 @@ personal portfolio 2019
   * title
   * header nav
   * social
-- home
+- [home](https://github.com/LauraLjungqvist/portfolio/blob/master/home)
   * home nav
   * about
   * examples
   * tools
   * projects (recent / ongoing)
   * contact
+- blog
+  * blog archive
+- portfolio
+  * latest
+  * ongoing (collapsed)
+  * archive (collapsed)
+- hire me
+  * description
+  * design process
+  * pricing
+  * contact form
   
 ## TO DO
 
