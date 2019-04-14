@@ -20,10 +20,10 @@ personal portfolio 2019
   * social
 - [home](https://github.com/LauraLjungqvist/portfolio/blob/master/home)
   * home nav
-  * about
-  * examples
+  * about (create for creativity = portfolio, momentary bliss = blog, form & function = hire me)
+  * examples (branding, website, marketing)
   * tools
-  * projects (recent / ongoing)
+  * projects (website, branding, illustration, logo, webshop, ui/ux)
   * contact
 - blog
   * blog archive
@@ -40,7 +40,6 @@ personal portfolio 2019
 ## TO DO
 
 - spell checking
-- add aria
 - clean up css
 - add dark theme toggle
 - test headernav position (flexbox?)
@@ -50,3 +49,6 @@ personal portfolio 2019
 - add contact form
 - make contact profile image smaller
 - resize and compress images
+- add (create for creativity = portfolio, momentary bliss = blog, form & function = hire me) to about at home
+- add examples to examples (branding, website, marketing)
+- update projects at home (website, branding, illustration, logo, webshop, ui/ux)
