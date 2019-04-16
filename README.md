@@ -31,6 +31,7 @@ personal portfolio 2019
   * latest
   * ongoing (collapsed)
   * archive (collapsed)
+- merch  
 - hire me
   * description
   * design process
@@ -52,3 +53,5 @@ personal portfolio 2019
 - add (create for creativity = portfolio, momentary bliss = blog, form & function = hire me) to about at home
 - add examples to examples (branding, website, marketing)
 - update projects at home (website, branding, illustration, logo, webshop, ui/ux)
+- lower footer
+- update logo and reallign (remove image padding)
