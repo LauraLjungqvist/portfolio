@@ -3,6 +3,7 @@ personal portfolio 2019
 
 ## resources
 - [Gallery sketches, wireframes and mockups](https://gallery.io/projects/MCHbtQVoQ2HCZdYrFhHI3s7x) 
+- [Image compression](https://squoosh.app/)
 - [Simple theme toggle](https://designshack.net/articles/css/lightsoff/)
 - [Nav smooth scroll](https://codepen.io/LauraCFC/pen/JVRWNV)
 - [Mobile animated hamburger](https://codepen.io/antonlydike/pen/PZPqPw) 
@@ -55,3 +56,4 @@ personal portfolio 2019
 - update projects at home (website, branding, illustration, logo, webshop, ui/ux)
 - lower footer
 - update logo and reallign (remove image padding)
+- add above the fold 'contact' CTA for mobile 
