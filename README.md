@@ -4,6 +4,7 @@ personal portfolio 2019
 ## resources
 - [Gallery sketches, wireframes and mockups](https://gallery.io/projects/MCHbtQVoQ2HCZdYrFhHI3s7x) 
 - [Image compression](https://squoosh.app/)
+- WordPress + Bootstrap: [Part 1](https://www.lyrathemes.com/bootstrap-wordpress-theme-tutorial-1/) | [Part 2](https://www.lyrathemes.com/bootstrap-wordpress-theme-tutorial-2/)
 - [Simple theme toggle](https://designshack.net/articles/css/lightsoff/)
 - [Nav smooth scroll](https://codepen.io/LauraCFC/pen/JVRWNV)
 - [Mobile animated hamburger](https://codepen.io/antonlydike/pen/PZPqPw) 
@@ -47,13 +48,10 @@ personal portfolio 2019
 - test headernav position (flexbox?)
 - test header flex positioning
 - test main nav smooth scroll toggle
-- add icons to resources
 - add contact form
-- make contact profile image smaller
-- resize and compress images
-- add (create for creativity = portfolio, momentary bliss = blog, form & function = hire me) to about at home
+- add site-wide navigation
 - add examples to examples (branding, website, marketing)
 - update projects at home (website, branding, illustration, logo, webshop, ui/ux)
 - lower footer
 - update logo and reallign (remove image padding)
-- add above the fold 'contact' CTA for mobile 
+- update above the fold 'contact' CTA for mobile 
