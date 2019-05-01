@@ -16,29 +16,34 @@ personal portfolio 2019
 ## table of content
 
 - header
-  * logo
-  * title
-  * header nav
+  * brand logo
+  * brand title  
   * social
+  * header nav
+
+- footer
+  * social
+  * contact form
+  
 - [home](https://github.com/LauraLjungqvist/portfolio/blob/master/home)
-  * home nav
-  * about (create for creativity = portfolio, momentary bliss = blog, form & function = hire me)
-  * examples (branding, website, marketing)
-  * tools
-  * projects (website, branding, illustration, logo, webshop, ui/ux)
-  * contact
-- blog
-  * blog archive
+  * hire me
+  * link to 'contact'
+  * services (branding, website, marketing)
+  * link to 'portfolio'
+  * link to 'merch'
+  * link to 'about'
+  * link to 'blog'
 - portfolio
   * latest
   * ongoing (collapsed)
   * archive (collapsed)
+- blog
+  * featured article
+  * blog archive
 - merch  
-- hire me
-  * description
-  * design process
-  * pricing
-  * contact form
+- about
+  * biography
+  * skills
   
 ## TO DO
 
