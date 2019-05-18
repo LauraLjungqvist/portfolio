@@ -12,6 +12,7 @@ personal portfolio 2019
 - [Icon transform](http://www.transformicons.com/)
 - [Mobile arrow smooth scroll down to anchor](https://stackoverflow.com/questions/4198041/jquery-smooth-scroll-to-an-anchor)
 - [Horizontal scrollbar](https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6)
+- [Breadcrumbs](https://www.wpexplorer.com/breadcrumbs-wordpress/)
 
 ## table of content
 
@@ -26,24 +27,30 @@ personal portfolio 2019
   * contact form
   
 - [home](https://github.com/LauraLjungqvist/portfolio/blob/master/home)
-  * hire me
+  * breadcrumbs
+  * description
   * link to 'contact'
-  * services (branding, website, marketing)
+  * services (branding, website, content, analytics)
   * link to 'portfolio'
   * link to 'merch'
+  * link to 'blog'  
   * link to 'about'
-  * link to 'blog'
 - portfolio
-  * latest
+  * breadcrumbs
+  * featured work
   * ongoing (collapsed)
   * archive (collapsed)
 - blog
+  * breadcrumbs
   * featured article
   * blog archive
 - merch  
+  * breadcrumbs
 - about
+  * breadcrumbs
   * biography
-  * skills
+  * photo
+  * contact
   
 ## TO DO
 
